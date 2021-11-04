@@ -1,0 +1,22 @@
+{
+  "name": "aut-pro-jimena-penaloza",
+  "version": "1.0.0",
+  "description": "testing repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhime1312/aut-pro-jimena-penaloza.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhime1312/aut-pro-jimena-penaloza/issues"
+  },
+  "homepage": "https://github.com/jhime1312/aut-pro-jimena-penaloza#readme",
+  "dependencies": {
+    "project-name-generator": "^2.1.9"
+  }
+}
